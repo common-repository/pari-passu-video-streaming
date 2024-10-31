@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pari Passu Video Streaming 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pari-passu-video-streaming\n"
+"POT-Creation-Date: 2010-09-02 14:32+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Miguel Peixoto <miguel@pixelmm.com.br>\n"
+"Language-Team: Pixel Multimidia <miguel@pixelmm.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pari_passu.php:119
+msgid "General View"
+msgstr "Visão Geral"
+
+#: pari_passu_admin.php:5
+msgid "Pari passu is a Latin phrase that literally means \"equal footstep\" or \"equal footing\". It is sometimes translated as \"part and parcel\", \"hand-in-hand\", \"with equal force\" or \"moving together\" and by extension, \"fairly\", \"without partiality\"."
+msgstr "Pari passu é uma expressão latina  que siginifica \"ao passo de\", \"simultaneamente\", \"a par\", \"ao mesmo tempo\", e por extensão também \"verdadeiramente\", \"sem parcialidade\""
+
+#: pari_passu_admin.php:9
+msgid "This plugin was created to facilitate your life when it comes to publishing live streaming video using open and new web technologies. It supports HTML5 video tag (OGG, WebM and MP4 supported) with multiple skins and a fallback to flash (RTMP and custom flash embedding supported) when necessary.<br />To promote interaction in your streamed event, it also comes with a customizable twitter stream to include in your streaming page."
+msgstr "Este plugin foi criado para facilitar a publicação de live streaming usando as tecnologias livres. Suporta a tag video do HTML5 (OGG, WebM e MP4) com skins personalizados e fallback para flash (RTMP e embed).<br /> Para promover interação no seu evento transmitido, possui também um twitter stream customizável para incluir na sua página."
+
+#: pari_passu_admin.php:11
+msgid "In case of doubt, sugestion or bug, report to:"
+msgstr "Em caso de dúvida, sugestão ou bug, reporte para:"
+
+#: pari_passu_admin.php:12
+msgid "Enjoy!"
+msgstr "Divirta-se!"
+
+#: pari_passu_admin.php:15
+#: pari_passu_admin.php:34
+msgid "Edit settings"
+msgstr "Editar configurações"
+
+#: pari_passu_admin.php:18
+#: pari_passu_admin.php:37
+msgid "Use the shorttag inside any page in your WordPress to show your live streaming!"
+msgstr "Utilize a shorttag dentro de qualquer página do seu WordPress para exibir o seu streaming!"
+
+#: pari_passu_admin.php:22
+#: pari_passu_admin.php:41
+msgid "Use the template tag inside your theme and customize it as you want!"
+msgstr "Utilize a template tag dentro do seu tema e customize como quiser!"
+
+#: pari_passu_admin.php:27
+#: pari_passu_admin.php:44
+msgid "Visualization"
+msgstr "Visualização"
+
+#: pari_passu_admin_twitter.php:62
+#: pari_passu_admin_video.php:50
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: pari_passu_admin_twitter.php:90
+#: pari_passu_admin_video.php:75
+msgid "After configurating your streaming, use <b>shorttags</b> in any page inside your WordPress or the <b>template tags</b> inside your theme to customize it as you want!"
+msgstr "Após configurar seu streaming, utilize <b>shorttags</b> em qualquer página do seu WordPress ou <b>template tags</b> dentro do seu tema para customizar como quiser!"
+
+#: pari_passu_admin_twitter.php:91
+#: pari_passu_admin_video.php:76
+msgid "Pari Passu automatically configurate your streaming options"
+msgstr "Pari Passu configura automaticamente suas definições de streaming"
+
+#: pari_passu_admin_twitter.php:97
+#: pari_passu_admin_video.php:81
+msgid "Settings"
+msgstr "Configurações"
+
+#: pari_passu_admin_twitter.php:104
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: pari_passu_admin_twitter.php:112
+#: pari_passu_admin_video.php:88
+msgid "Title"
+msgstr "Título"
+
+#: pari_passu_admin_twitter.php:120
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: pari_passu_admin_twitter.php:130
+msgid "Activate Twitter Streaming?"
+msgstr "Ativar Twitter Streaming?"
+
+#: pari_passu_admin_twitter.php:135
+#: pari_passu_admin_video.php:109
+msgid "Yes"
+msgstr "Sim"
+
+#: pari_passu_admin_twitter.php:143
+#: pari_passu_admin_video.php:117
+msgid "No"
+msgstr "Não"
+
+#: pari_passu_admin_twitter.php:153
+#: pari_passu_admin_video.php:125
+msgid "Size"
+msgstr "Tamanho"
+
+#: pari_passu_admin_twitter.php:158
+#: pari_passu_admin_video.php:130
+msgid "Width"
+msgstr "Largura"
+
+#: pari_passu_admin_twitter.php:166
+#: pari_passu_admin_video.php:138
+msgid "Height"
+msgstr "Altura"
+
+#: pari_passu_admin_twitter.php:179
+#: pari_passu_admin_video.php:185
+msgid "Appearance"
+msgstr "Aparência"
+
+#: pari_passu_admin_twitter.php:180
+msgid "Box"
+msgstr "Caixa"
+
+#: pari_passu_admin_twitter.php:185
+#: pari_passu_admin_twitter.php:206
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: pari_passu_admin_twitter.php:193
+#: pari_passu_admin_twitter.php:214
+msgid "Text color"
+msgstr "Cor de texto"
+
+#: pari_passu_admin_twitter.php:201
+msgid "Tweets"
+msgstr "Tweets"
+
+#: pari_passu_admin_twitter.php:222
+msgid "Links color"
+msgstr "Cor dos links"
+
+#: pari_passu_admin_twitter.php:232
+msgid "Preferences"
+msgstr "Preferências"
+
+#: pari_passu_admin_twitter.php:237
+msgid "Show scrollbar"
+msgstr "Exibir scrollbar"
+
+#: pari_passu_admin_twitter.php:245
+msgid "Infinite rotation"
+msgstr "Rotação infinita de tweets"
+
+#: pari_passu_admin_twitter.php:253
+msgid "Show avatars"
+msgstr "Exibir avatares"
+
+#: pari_passu_admin_twitter.php:261
+msgid "Show date/time"
+msgstr "Exibir hora"
+
+#: pari_passu_admin_twitter.php:269
+msgid "Show hashtag"
+msgstr "Exibir hashtag"
+
+#: pari_passu_admin_twitter.php:277
+msgid "Interval between tweets"
+msgstr "Intervalo entre tweets"
+
+#: pari_passu_admin_twitter.php:280
+msgid "seconds"
+msgstr "segundos"
+
+#: pari_passu_admin_twitter.php:288
+#: pari_passu_admin_video.php:332
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: pari_passu_admin_twitter.php:294
+msgid "Visualização"
+msgstr "Visualização"
+
+#: pari_passu_admin_video.php:96
+msgid "Description"
+msgstr "Descrição"
+
+#: pari_passu_admin_video.php:104
+msgid "Activate Video Streaming?"
+msgstr "Ativar Video Streaming?"
+
+#: pari_passu_admin_video.php:146
+msgid "HTML5 Options"
+msgstr "Opções de HTML5"
+
+#: pari_passu_admin_video.php:147
+msgid "These options only apply to browsers that support HTML5 video tag."
+msgstr "Essas opções só se aplicam aos navegadores que suportam a tag video e para streaming utilizando OGG, WebM ou MP4"
+
+#: pari_passu_admin_video.php:158
+msgid "Play streaming on page load"
+msgstr "Tocar streaming ao carregar a página"
+
+#: pari_passu_admin_video.php:169
+msgid "Show video controls"
+msgstr "Exibir controles de vídeo"
+
+#: pari_passu_admin_video.php:180
+msgid "Start buffering on page load. (Only if autoplay is off)"
+msgstr "Carregar vídeo ao carregar a página. (Apenas se autoplay estiver desativado)"
+
+#: pari_passu_admin_video.php:190
+msgid "Browser default player"
+msgstr "Player padrão do navegador"
+
+#: pari_passu_admin_video.php:200
+msgid "Kaltura HTML5 Player default"
+msgstr "Kaltura HTML5 Player padrão"
+
+#: pari_passu_admin_video.php:206
+#: pari_passu_admin_video.php:217
+#: pari_passu_admin_video.php:228
+#: pari_passu_admin_video.php:239
+#: pari_passu_admin_video.php:250
+#: pari_passu_admin_video.php:261
+#: pari_passu_admin_video.php:272
+msgid "see more"
+msgstr "saiba mais"
+
+#: pari_passu_admin_video.php:211
+msgid "Kaltura HTML5 Player theme <i>kskin</i>"
+msgstr "Kaltura HTML5 Player tema <i>kskin</i>"
+
+#: pari_passu_admin_video.php:222
+msgid "JW Player for HTML5"
+msgstr "JW Player para HTML5"
+
+#: pari_passu_admin_video.php:233
+msgid "Video JS Original"
+msgstr "Video JS Original"
+
+#: pari_passu_admin_video.php:244
+msgid "Video JS VimCSS"
+msgstr "Video JS VimCSS"
+
+#: pari_passu_admin_video.php:255
+msgid "Video JS HuCSS"
+msgstr "Video JS HuCSS"
+
+#: pari_passu_admin_video.php:266
+msgid "Video JS TubeCSS"
+msgstr "Video JS TubeCSS"
+
+#: pari_passu_admin_video.php:277
+msgid "URLs and Fallbacks"
+msgstr "URLs and Fallbacks"
+
+#: pari_passu_admin_video.php:282
+msgid "OGG URL: "
+msgstr "Endereço OGG:"
+
+#: pari_passu_admin_video.php:290
+msgid "WebM URL: "
+msgstr "Endereço WebM:"
+
+#: pari_passu_admin_video.php:298
+msgid "MP4 (h264) URL: "
+msgstr "Endereço MP4 (h264):"
+
+#: pari_passu_admin_video.php:306
+msgid "RTMP Server: "
+msgstr "Servidor RTMP:"
+
+#: pari_passu_admin_video.php:314
+msgid "RTMP File: "
+msgstr "Arquivo RTMP:"
+
+#: pari_passu_admin_video.php:322
+msgid "Flash embed: "
+msgstr "Código de embed:"
+
+#: pari_passu_functions.php:5
+msgid "People are talking about"
+msgstr "O que está rolando em"
+

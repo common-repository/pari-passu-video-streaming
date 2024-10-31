@@ -1,0 +1,63 @@
+ 
+/* CSS Document */
+
+#paripassu_chat form, #paripassu_chat p, #paripassu_chat span {
+	margin:0;
+	padding:0;
+}
+
+#paripassu_chat label {
+	width: 45px;
+	display: block;
+	float: left;
+}
+ 
+#paripassu_chat input {
+	font:12px arial;
+	padding: 2px;
+	margin: 0; 
+	border-width:1px;
+	border-style: solid;
+}
+
+#paripassu_chat a {
+	color:#0000FF;
+	text-decoration:none; }
+ 
+	a:hover { text-decoration:underline; }
+ 
+#paripassu_chat, #paripassu_chat #loginform {
+	margin:0;
+	padding:10px;
+	border-width:1px;
+	border-style: solid;
+	font-size: 12px;
+	line-height: 18px;
+}
+ 
+#paripassu_chat #loginform { padding-top:18px; }
+ 
+#paripassu_chat #loginform p { margin: 5px; }
+ 
+#paripassu_chat #chatbox {
+	text-align:left;
+	margin:0 auto;
+	margin-bottom:10px;
+	padding:10px;
+	border-width:1px;
+	border-style: solid;
+	overflow:auto;
+}
+ 
+#paripassu_chat #usermsg, #paripassu_chat #submitmsg {
+}
+
+#paripassu_chat .error { color: #ff0000; }
+ 
+#paripassu_chat #menu { padding: 0 0 10px 0; }
+ 
+#paripassu_chat .welcome { float:left; }
+ 
+#paripassu_chat .logout { float:right; }
+ 
+#paripassu_chat .msgln { margin:0 0 2px 0; }
